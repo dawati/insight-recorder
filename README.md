@@ -1,4 +1,4 @@
 insight-recorder
 ================
 
-Moved to github.com/insight-recorder/insight-recorder
+Moved to http://github.com/insight-recorder/insight-recorder
